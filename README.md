@@ -23,7 +23,7 @@
 ---
 
 ### :man_technologist: About Me :
-Highly motivated and self-driven aeronautical engineering student. Beyond the realm of aviation, my enthusiasm extends into the exciting worlds of data analysis and machine learning<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Eager to leverage my knowledge and problem-solving skills to contribute to innovative projects.
+I am a highly motivated and self-driven aeronautical engineering student. Beyond the realm of aviation, my enthusiasm extends into the exciting worlds of data analysis and machine learning<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Eager to leverage my knowledge and problem-solving skills to contribute to innovative projects.
   
 
 - 🌱 I’m currently learning Deep Learning Algorithms (Neural Networks)  
