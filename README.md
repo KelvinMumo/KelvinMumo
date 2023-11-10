@@ -3,9 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/kelvin-mumo" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <a href="https://linkedin.com/in/kelvin-mumo" target="_blank" onclick="window.open('https://linkedin.com/in/kelvin-mumo'); return false;">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
+
   <a href="https://discord.com/channels/@kelvinmumo" target="_blank">
     <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px;" />
   </a>
