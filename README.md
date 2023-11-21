@@ -34,7 +34,7 @@ I am a highly motivated and self-driven aeronautical engineering student. Beyond
 
 - ⚡ Fun fact: The term "bug" in computer science was coined by Rear Admiral Grace Hopper in 1947 when an actual moth caused a malfunction in the Mark II computer at Harvard University.  
   
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kelvin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kelvin-mumo)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kelvin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-mumo)
 <br/>  
 
 
